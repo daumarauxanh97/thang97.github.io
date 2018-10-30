@@ -1,6 +1,10 @@
 body{
 	width: 100%;
-	margin: 0;
+	background-color: black;
+}
+.container{
+    width: 1400px;
+    margin: auto;
 }
 @font-face {
     font-family: HelBold;
@@ -88,7 +92,7 @@ body{
 	width: 310px;
 }
 .text3{
-        color: #736c4d;
+	color: #736c4d;
 	margin-top: 20px;
 	font-family: Myriad Pro;
 	width: 400px;
