@@ -9,7 +9,7 @@ Yêu cầu:
 - css
 - js
 - images
-Thực hiện bởi [Lê Đức Thắng](https://github.com/daumarauxanh97)
+## Thực hiện bởi [Lê Đức Thắng](https://github.com/daumarauxanh97)
 ## Giao diện
 [Trang Tinyone]( https://daumarauxanh97.github.io/thang97.github.io/th)
 
