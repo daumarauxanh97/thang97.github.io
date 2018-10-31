@@ -12,7 +12,7 @@ Yêu cầu:
 ## Thực hiện bởi [Lê Đức Thắng](https://github.com/daumarauxanh97)
 ## Giao diện
 [Trang Tinyone]( https://daumarauxanh97.github.io/thang97.github.io/th)
-[ảnh](https://daumarauxanh97.github.io/thang97.github.io/images/tinyone-1.png)
+-[ảnh](https://daumarauxanh97.github.io/thang97.github.io/images/tinyone-1.png)
 ## Kiến thức nắm được
 
 Sử dụng 1 base code html
