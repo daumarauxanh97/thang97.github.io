@@ -190,6 +190,7 @@ body{
 	font-family:'PTSRegular';
 }
 .bold{
+        font-weight: bold;
 	font-size: 22px;
 }
 .mab{
