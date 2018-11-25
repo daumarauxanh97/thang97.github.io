@@ -9,15 +9,15 @@ body{
 }
 @font-face {
     font-family: HelBold;
-    src: url(font/helvetica-neue-bold.woft2);
+    src: url(font/helvetica-neue-bold.woff2);
 }
 @font-face {
     font-family: PTSRegular;
-    src: url(font/PT-Sans-Regular.woft2);
+    src: url(font/PT-Sans-Regular.woff2);
 }
 @font-face {
     font-family: PTSBold;
-    src: url(font/PT_Sans-Web-Bold.woft2);
+    src: url(font/PT_Sans-Web-Bold.woff2);
 }
 .container1{
     width: 100%;
@@ -52,6 +52,11 @@ body{
 .fingerprint{
 	float: left;
 }
+.tinyone{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'PT Sans ', sans-serif;
+}
 .right{
 	width: 360px;
 	display: flex;
@@ -64,7 +69,7 @@ body{
 	font-weight: bolder; 
 }
 .rightcontent:first-child{
-	font-family: 'PTSRegular', sans-serif;
+	font-family: 'PT Sans ', sans-serif;
     letter-spacing: -1px;
 }
 .rightcontent:last-child{
@@ -82,7 +87,7 @@ body{
 
 }
 .text2{
-	color: #313841;
+	color: #313841;313841
 	font-size: 20px;
 	font-family: Myriad Pro;
 	width: 310px;
@@ -185,8 +190,9 @@ body{
 	font-family:'PTSRegular';
 }
 .bold{
-        font-weight: bold;
+	font-weight: bold;
 	font-size: 22px;
+	letter-spacing: 0px;
 }
 .mab{
 	margin-bottom: 10px;
