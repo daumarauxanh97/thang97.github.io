@@ -9,15 +9,15 @@ body{
 }
 @font-face {
     font-family: HelBold;
-    src: url(font/helvetica-neue-bold.ttf);
+    src: url(font/helvetica-neue-bold.woft2);
 }
 @font-face {
     font-family: PTSRegular;
-    src: url(font/PT-Sans-Regular.ttf);
+    src: url(font/PT-Sans-Regular.woft2);
 }
 @font-face {
     font-family: PTSBold;
-    src: url(font/PT_Sans-Web-Bold.ttf);
+    src: url(font/PT_Sans-Web-Bold.woft2);
 }
 .container1{
     width: 100%;
