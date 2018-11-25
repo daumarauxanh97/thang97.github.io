@@ -52,11 +52,6 @@ body{
 .fingerprint{
 	float: left;
 }
-.tinyone{
-	font-size: 30px;
-	font-weight: bold;
-	font-family: 'PT Sans ', sans-serif;
-}
 .right{
 	width: 360px;
 	display: flex;
