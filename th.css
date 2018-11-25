@@ -69,7 +69,7 @@ body{
 	font-weight: bolder; 
 }
 .rightcontent:first-child{
-	font-family: 'PT Sans ', sans-serif;
+	font-family: 'PTSRegular', sans-serif;
     letter-spacing: -1px;
 }
 .rightcontent:last-child{
